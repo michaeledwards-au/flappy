@@ -1,0 +1,11 @@
+[package]
+name = "flappy"
+version = "0.1.0"
+authors = ["Michael Edwards <me@michaeledwards.au>"]
+edition = "2024"
+description = "A simple flappy bird clone written in Rust"
+license = "MIT"
+repository = "https://github.com/michaeledwards-au/flappy"
+
+[dependencies]
+bracket-lib = "~0.8.1"
