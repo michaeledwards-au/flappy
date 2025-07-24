@@ -1,6 +1,6 @@
 [package]
 name = "flappy"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Michael Edwards <me@michaeledwards.au>"]
 edition = "2024"
 description = "A simple flappy bird clone written in Rust"
